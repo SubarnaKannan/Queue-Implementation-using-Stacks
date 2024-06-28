@@ -1,1 +1,1 @@
-# Queue-Implementation-using-Stacks
+# Stack-Implementation-using-Queues
